@@ -1,2 +1,2 @@
 # WizardZ
-First website using GSAP a Javascript based library for better Animation.
+First mini project website using GSAP( JavaScript library ).
